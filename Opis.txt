@@ -1,0 +1,20 @@
+Jakub Wala
+Temat projektu : Wyporzyczalnia pojazdów
+1. Jest 6 plików: plik główny, pliki poboczne (Main, klienci, motocykl, pojazd, rower, samochód). Oraz 2 pliki zawierające dane osobno(klienci, pojazdy)
+	-Plik main: będzie wywoływać funkcje wszystkich poniższych plików
+	-Klienci:klijenci sią zapisywani w pliku tekstowym i je zczytuje
+	-motocykl:zawiera dane o motocyklu
+	-pojazd:zawiera dane o wszystkich pojazdów odczytuje i zczytuje wszystkie dane o pojazdach
+	-rower:jak ma zapisywać dane roweru w pliku pojazd
+	-samochód:jak ma zapisywać dane roweru w pliku pojazd
+2. Kod będzie zapamiętywać nowo wprowadzone pojazdy i klientów do plików txt.
+3. Kod będzie miał możliwość dodania informacji jaki pojazd jest przypisany do klienta
+4. będzie równierz zbierał dane pojazdu i je zapisywał takie jak marka ilość drzwi itd.
+5. Projekt będzie miał już wstępnie 5 klientów i po 3 pojazdy z każdej kategori wstępnie
+6. Program rownierz będzie pokazywał ile za godzine
+7. Plik będzie równierz obliczał ile klient będze winny np (Wpisuje się, że anna ma już samochód 4 dni i automatycznie wyświetla że musi zapłacić 120 za dzień czyli 480)
+8. Pan nauczyciel morze  wpisuje nam piąteczke za projekt
+9. Może zdamy 
+
+
+

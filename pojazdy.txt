@@ -1,0 +1,5 @@
+Samochod|1|BMW|bmx25|170.0|false|4
+Samochod|2|Audi|rr43|450.0|false|4
+Motocykl|3|Mitsubishi|MKL 20|235.0|true|25
+Samochod|4|Toyota|Corolla|250.0|true|4
+Rower;5;BMX;XM 22;15.0;true;7

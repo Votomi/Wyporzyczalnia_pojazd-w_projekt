@@ -1,0 +1,4 @@
+1|Kacper|Barbarzyńca|1
+2|aleksander|Kowalski|0
+3|Jan|Pokielski|0
+4|Maryla|Rodowicz|2
